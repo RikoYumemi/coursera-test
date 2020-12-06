@@ -1,2 +1,2 @@
-# coursera-test-web-html5-js
+# coursera-test
 Coursera test repository
